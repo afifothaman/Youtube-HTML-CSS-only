@@ -1,12 +1,11 @@
 # Youtube-HTML-CSS-only/YouTube UI Clone
 
-
 This is a YouTube homepage UI clone built using HTML and CSS.
 I first learned the concepts from a tutorial, then rebuilt the project from scratch without following along.
 
 ## Live Demo
 
-https://afifothaman.github.io/Youtube-HTML-CSS-only/youtube.html
+https://afifothaman.github.io/Youtube-HTML-CSS-only/
 
 ## Repository
 
@@ -33,13 +32,13 @@ https://www.youtube.com/watch?v=G3e-cpL7ofc
 
 * Rebuilt from memory after finishing the tutorial
 * Focused on understanding layout instead of copying
-* Cleaned up structure and folder organization for deployment
+* Organized project structure for deployment
 
 ## Folder Structure
 
-```id="yt1"
+```txt
 Youtube-HTML-CSS-only/
-├── youtube.html
+├── index.html
 ├── styles/
 ├── icons/
 ├── thumbnails/
